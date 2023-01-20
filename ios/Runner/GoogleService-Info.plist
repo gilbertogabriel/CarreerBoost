@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>194724757632-m032echhdm0kk6mfm49h6vsl33pmh3sc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.194724757632-m032echhdm0kk6mfm49h6vsl33pmh3sc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkXkb3FfZM8b90hBAR-RaJvHJxqPn-tb4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>194724757632</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.carrierBoost</string>
+	<key>PROJECT_ID</key>
+	<string>frete-grao</string>
+	<key>STORAGE_BUCKET</key>
+	<string>frete-grao.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:194724757632:ios:6c56642d090d72b1f6e665</string>
+	<key>DATABASE_URL</key>
+	<string>https://frete-grao-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

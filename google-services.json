@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "194724757632",
+    "firebase_url": "https://frete-grao-default-rtdb.firebaseio.com",
+    "project_id": "frete-grao",
+    "storage_bucket": "frete-grao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194724757632:android:e6752c6261f2837bf6e665",
+        "android_client_info": {
+          "package_name": "com.example.carrier_boost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194724757632-4328si7g1dsiv1mr28bd6t2upqij5me8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKf180GDttgwO6aQCGzBFAxE6tT5Jm1lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194724757632-4328si7g1dsiv1mr28bd6t2upqij5me8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194724757632-hskp4lrojet1mmgr637r3qt0p2ag9u2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santosenoque.uberClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
